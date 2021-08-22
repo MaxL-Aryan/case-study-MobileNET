@@ -1,0 +1,39 @@
+body{
+    font-family: 'Nova Square', cursive;
+    background-color: yellow;
+    color: darkcyan;
+    text-align: center;
+}
+.header_div{
+    background-color: white;
+    color: black;
+    margin-top: -15px;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid crimson;
+    width: 90%;
+    background-color: darkslategray;
+}
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+    background-color: darkgray;
+}
+.case_img{
+    border: 2px solid goldenrod;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+.main_div button{
+    width: 380px;
+    background-color: darkgrey;
+    
+}
